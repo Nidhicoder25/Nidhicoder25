@@ -27,9 +27,8 @@
 
 📫 **Connect with Me**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nidhi-nagraj)  
-- 🌐 [Portfolio Website](https://nidhinagraj.dev) *(If you have one – optional)*  
-- 📧 Email: nidhi.nagraj@example.com *(Replace with your actual email)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/nidhi-nagraj-aa7387350) 
+- 📧 Email:(nidhinagraj917@gmail.com)
 
 ---
 
